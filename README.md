@@ -23,7 +23,8 @@ Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: S.Manigandan 
 RegisterNumber: 25004934
 */
-
+```
+```
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
